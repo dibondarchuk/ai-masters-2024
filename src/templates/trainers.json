@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Мирослав Вернигора",
+        "img": "assets/1.jpg",
+        "inst": "https://www.instagram.com/the_myroslav/",
+        "openSlots": [
+            "7:30",
+            "11:00",
+            "13:30",
+            "14:30"
+        ],
+        "price": "1300.00",
+        "currency": "UAH"
+    },
+    {
+        "name": "Кирил Добрий",
+        "img": "assets/2.png",
+        "inst": "https://www.instagram.com/kr.dobry/",
+        "openSlots": [
+            "10:00",
+            "15:00"
+        ],
+        "price": "1225.00",
+        "currency": "UAH"
+    },
+    {
+        "name": "Сергій Калашник",
+        "img": "assets/3.jpg",
+        "inst": "https://www.instagram.com/kalashnyk_s/",
+        "openSlots": [
+            "17:00",
+            "18:00",
+            "19:00"
+        ],
+        "price": "1250.00",
+        "currency": "UAH"
+    }
+]
